@@ -10,6 +10,7 @@ use PDF::Reuse;
 
 our $VERSION = '0.04';
 
+=encoding utf8
 
 =head1 NAME
 
