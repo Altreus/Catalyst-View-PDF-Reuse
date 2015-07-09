@@ -8,7 +8,7 @@ use File::Spec::Functions qw/catfile rel2abs/;
 use File::Temp qw/tmpnam/;
 use PDF::Reuse;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 =encoding utf8
 
